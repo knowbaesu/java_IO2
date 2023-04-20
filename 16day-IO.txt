@@ -1,0 +1,49 @@
+**16day-IO**
+- IO 개념 : 4가지 Abstract 부모 클래스 
+			  InputStream , OutputStream , Reader , Writer 
+- 객체 직렬화 
+
+-----------------------------------------------
+- IO 개념 : Input  입력 , Output 출력 
+		 	  Stream => 입출력 장치 : 파이프 라인 , 빨대 
+		 	               사전적 의미 : 줄기, 시냇물 
+		 	  			   					  
+- IO 계열 4가지 Abstract class ( 부모 역할에 집중해서 멤버를 물려주고 필요시 구현 강제 ) 
+  			1byte (바이트 스트림)       2byte (문자열 스트림)
+  입력	    InputStream				    Reader                               
+  출력     OutputStream					Writer 
+  
+- NodeStream(주스트림)  과 ProcessingStream(절차스트림,보조스트림) 
+  NodeStream : 직접 장치에 연결되는 스트림 ( 파일 , 네트워크 .. ) 
+  ProcessStream : 다양한 기능 제공 , 반드시 직접 장치에 연결되는 노드 스트림을 필요로 한다
+  
+ - flush : 버퍼에 있는 데이터를 출력한다 
+ - close : 스트림을 닫아주고 사용한 자원을 놓아준다  
+  
+  **17day 주요목차**
+  
+  - 객체 직렬화 : Object Serialization 
+  - school 에 io(객체 직렬화) 적용하기 
+  - Thread 기본 개념과 생성 
+  
+  
+  
+  
+  
+  
+  
+   	
+   
+
+
+
+
+
+
+
+
+
+
+			    
+
+	
