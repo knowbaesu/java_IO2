@@ -1,4 +1,4 @@
-package step8.test.step3;
+package src.step8.test.step3;
 
 import java.io.File;
 

@@ -1,4 +1,4 @@
-package step7;
+package src.step7;
 /*
  *  실제 클라이언트를 담당하는 직원 클래스 
  */

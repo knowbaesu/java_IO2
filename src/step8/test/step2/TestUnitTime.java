@@ -1,4 +1,4 @@
-package step8.test.step2;
+package src.step8.test.step2;
 
 import java.text.SimpleDateFormat;
 

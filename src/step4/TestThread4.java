@@ -1,4 +1,7 @@
-package step4;
+package src.step4;
+
+import step4.VideoWorker;
+
 /*
  *   멀티 스레드 : 메인 스레드 + 영상 스레드 + 음향 스레드 => 동영상 프로세스
  */

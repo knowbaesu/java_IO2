@@ -1,4 +1,7 @@
-package step2;
+package src.step2;
+
+import step2.WorkerThread;
+
 /*
  * step1 프로그램과 비교한다 
  * step1 은 main thread 1개가 실행. 즉 일꾼이 한명 

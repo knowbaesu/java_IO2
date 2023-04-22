@@ -1,4 +1,4 @@
-package step6;
+package src.step6;
 
 public class ReceiverWorker implements Runnable{
 	@Override

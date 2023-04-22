@@ -1,4 +1,8 @@
-package step6;
+package src.step6;
+
+import step6.ReceiverWorker;
+import step6.SenderWorker;
+
 /**
  * 다음주 네크워크 시간에 만들 채팅 클라이언트 프로그램에서 적용될 스레드 연습 
  * 채팅 클라이언트 

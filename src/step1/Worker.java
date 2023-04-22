@@ -1,4 +1,4 @@
-package step1;
+package src.step1;
 
 public class Worker {
 	public void work() {

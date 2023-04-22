@@ -1,4 +1,4 @@
-package step3;
+package src.step3;
 /*
  *  implements Runnable 로 스레드 생성하는 것을 더 추천
  *  이유는 자바는 단일 상속이기 때문이다 

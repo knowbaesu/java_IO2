@@ -1,4 +1,4 @@
-package step8.test.step1;
+package src.step8.test.step1;
 
 import java.util.Random;
 

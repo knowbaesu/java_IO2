@@ -1,4 +1,4 @@
-package step2;
+package src.step2;
 
 public class WorkerThread extends Thread{
 	@Override

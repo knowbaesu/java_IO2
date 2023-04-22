@@ -1,4 +1,4 @@
-package step3;
+package src.step3;
 /*
  * step2 의 스레드 생성 방법 ( extends Thread ) 을  implements Runnable 방식으로
  * 변경해서 만들어 본다 

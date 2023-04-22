@@ -1,4 +1,6 @@
-package step5;
+package src.step5;
+
+import step5.BackupWorker;
 
 public class Word implements Runnable{
 	@Override

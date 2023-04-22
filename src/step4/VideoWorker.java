@@ -1,4 +1,4 @@
-package step4;
+package src.step4;
 
 public class VideoWorker implements Runnable{
 	@Override

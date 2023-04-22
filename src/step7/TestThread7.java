@@ -1,4 +1,7 @@
-package step7;
+package src.step7;
+
+import step7.ServerWorker;
+
 /**
  * 다음주 네크워크 시간에 만들 채팅 서버 프로그램에서 적용될 스레드 연습 
  * 

@@ -1,4 +1,4 @@
-package step1;
+package src.step1;
 /*
  *  현 프로그램은 main thread ( 일꾼 ) 하나가
  *  동작된다. 그러므로 반드시 8시간 일하고 
